@@ -1,0 +1,13 @@
+name: CapstoneApp
+title: CapstoneApp
+username:
+account: magnusrex86
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 963463
+bundleId: 2131425
+url: https://magnusrex86.shinyapps.io/CapstoneApp/
+when: 1559710660.81429
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/ngram5.rds

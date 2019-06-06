@@ -33,7 +33,7 @@ shinyUI(fluidPage(
               tabPanel("About",
                        h3("Datascience Capstone Project"),
                        h4("Dewald Olivier"),
-                       h5("Other:"),
+                       h5(a(p("CapstoneApp Slide Deck"),href=,"http://rpubs.com/MagnusRex/CapstoneAppSD")
                        h5("For more information regarding the processing and exploratory analysis of the dataset, please refer to my milestone document."),
                        a(p("LINK"), href="http://rpubs.com/MagnusRex/DSCapstone")
               )
